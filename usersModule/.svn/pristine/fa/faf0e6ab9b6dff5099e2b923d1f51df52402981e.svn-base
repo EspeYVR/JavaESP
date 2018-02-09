@@ -1,0 +1,1 @@
+modelo de la base en mongo db para este modulo

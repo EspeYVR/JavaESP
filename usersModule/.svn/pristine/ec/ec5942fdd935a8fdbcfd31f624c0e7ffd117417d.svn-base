@@ -1,0 +1,1 @@
+modelo de datos que se vaya estraer de quipux
